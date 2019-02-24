@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/wisetlaloc/my_go_learning/ninja-level12/hands-on#1/dog"
+	"github.com/wisetlaloc/my_go_learning/ninja-level12/hands-on1/dog"
 )
 
 type customDog struct {
